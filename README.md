@@ -2,50 +2,50 @@
 Windows, but better. it's Make Windows Better "MWB" Curated by CortexDev-Official
 # 🚀 Make Windows Better (MWB)
 **Curated by CortexDev-Official**
-*Transforming Windows into a Private, Secure, and High-Performance Workstation.*
+*Windows, redefined. Optimized for privacy, speed, and clean workflows.*
 
 ---
 
 ## 📜 Project Legacy & Continuity
 > [!NOTE]
-> There is another project with the exact same name under the account **StrykeDev-Official**. 
-> Please be advised that **StrykeDev-Official** was my previous account which has been suspended. 
-> This repository (**CortexDev-Official/MWB**) is now the **only official and active home** for this project. All future updates will happen here.
+> This project was originally hosted under **StrykeDev-Official**. Due to a suspension on the previous account, I have moved the entire repository here. This is the only active and verified home for MWB.
 
 ---
 
-## 🛡️ Privacy & Security (Core Recommendations)
+## 🛡️ Privacy & Security (The Essentials)
 > [!TIP]
-> Your browser is your gateway. Choose privacy.
+> Modern Windows telemetry is aggressive. These two tools are your first line of defense.
 
 * **[Zen Browser](https://www.zen-browser.app/)** 🌐
-    > *Stop using Microsoft Edge or Chrome. Zen is the ultimate choice for a secure and modern browsing experience.*
+    * **The Logic:** Moving away from Chromium/Edge is the single best thing you can do for privacy. Zen offers a vertical-tab, performance-first engine without the Google/Microsoft tracking.
 * **[Simplewall](https://github.com/henrypp/simplewall)** 🔒
-    > *Total control over your internet connection. Block unwanted telemetry instantly.*
+    * **The Logic:** A simple WFP (Windows Filtering Platform) interface. It doesn't bloat your system like "Antivirus" firewalls; it just blocks unauthorized outgoing connections instantly.
 
 ---
 
-## 🛠️ The MWB Recommended Toolset
-| Task | Recommended Tool | Why it's better? |
+## 🛠️ The MWB Toolset (Technical Selection)
+I have handpicked these tools based on resource footprint, reliability, and functionality.
+
+| Category | Tool | Why it makes the cut |
 | :--- | :--- | :--- |
-| **Package Manager** | [UniGetUI](https://github.com/MartiCliment/UniGetUI) | Manage and update all your software in one place. |
-| **Screenshots** | [ShareX](https://getsharex.com/) | **Best alternative to Snipping Tool.** Fast & feature-rich. |
-| **Photo Viewer** | [ImageGlass](https://imageglass.org/) | **Best alternative to Windows Photos.** Lightweight & fast. |
-| **Media Player** | [VLC Player](https://www.videolan.org/) | Best alternative to Movies & TV. |
-| **File Search** | [Everything](https://www.voidtools.com/) | Instant file searching, way faster than Windows Search. |
-| **Text Editor** | [Notepad++](https://notepad-plus-plus.org/) | Powerful and lightweight replacement for Notepad. |
-| **Process Control** | [IObit Deactivator](https://www.iobit.com/) | *(Closed Source)* ⚠️ - Great alternative to Task Manager. |
-| **System Cleaning**| [BleachBit](https://github.com/bleachbit/bleachbit) | Open-source alternative to CCleaner. Wipes data thoroughly. |
+| **Package Management** | [UniGetUI](https://github.com/MartiCliment/UniGetUI) | An essential GUI for Winget/Scoop. Batch updates everything without manual installers. |
+| **Workflow / Capture** | [ShareX](https://getsharex.com/) | Forget Snipping Tool. ShareX handles OCR, screen recording, and instant uploads with zero friction. |
+| **Image Engine** | [ImageGlass](https://imageglass.org/) | Replaces the heavy "Photos" app. It supports HDR and RAW formats with near-instant loading times. |
+| **Universal Media** | [VLC Player](https://www.videolan.org/) | The industry standard. Codec-independent and handles hardware acceleration better than "Movies & TV". |
+| **Indexing/Search** | [Everything](https://www.voidtools.com/) | Real-time DB indexing. Finds any file on a multi-terabyte drive in milliseconds. |
+| **Code / Text** | [Notepad++](https://notepad-plus-plus.org/) | Ultra-low RAM usage. Essential for config file editing and quick syntax highlighting. |
+| **Service Control** | [IObit Toolbox](https://www.iobit.com/en/advancedsystemcarefree.php) | Use the **Deactivator** module to freeze background services without uninstalling them. |
+| **Deep Cleaning** | [BleachBit](https://github.com/bleachbit/bleachbit) | Goes where Disk Cleanup won't. Shreds temporary files and vacuums app databases. |
 
 ---
 
 ## 🛡️ Official Notice
 > [!IMPORTANT]
-> This is the **only official repository** for the MWB project by CortexDev-Official.
+> This is the **official repository** for the MWB project. Any other mirrors are unofficial.
 
 ---
 ### 👨‍💻 Maintainer
-**CortexDev-Official** *Official Developer & Publisher*
+**CortexDev-Official**
 
 ---
 ###### Licensed under [MIT](LICENSE)
