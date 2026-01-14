@@ -1,5 +1,5 @@
 # Make-Windows-Better
-Windows, but better. it's Make Windows Better "MWB" Curated by CortexDev-Official
+Windows, but better. it's "Make My Windows Better" "MWB" Curated by CortexDev-Official
 # 🚀 Make Windows Better (MWB)
 **Curated by CortexDev-Official**
 *Windows, redefined. Optimized for privacy, speed, and clean workflows.*
