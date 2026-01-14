@@ -30,6 +30,8 @@ I have handpicked these tools based on resource footprint, reliability, and func
 | :--- | :--- | :--- |
 | **Package Management** | [UniGetUI](https://github.com/MartiCliment/UniGetUI) | An essential GUI for Winget/Scoop. Batch updates everything without manual installers. |
 | **Workflow / Capture** | [ShareX](https://getsharex.com/) | Forget Snipping Tool. ShareX handles OCR, screen recording, and instant uploads with zero friction. |
+| **Boot Control** | [AutoRuns](https://learn.microsoft.com/en-us/sysinternals/downloads/autoruns) | The most comprehensive startup monitor. Identifies and disables hidden persistent entries that Task Manager misses. |
+| **Archiver** | [7-Zip](https://www.7-zip.org/) | Open-source heavy lifter. Superior compression ratio and zero unnecessary background processes compared to WinRAR. |
 | **Image Engine** | [ImageGlass](https://imageglass.org/) | Replaces the heavy "Photos" app. It supports HDR and RAW formats with near-instant loading times. |
 | **Universal Media** | [VLC Player](https://www.videolan.org/) | The industry standard. Codec-independent and handles hardware acceleration better than "Movies & TV". |
 | **Indexing/Search** | [Everything](https://www.voidtools.com/) | Real-time DB indexing. Finds any file on a multi-terabyte drive in milliseconds. |
