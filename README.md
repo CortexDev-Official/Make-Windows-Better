@@ -6,6 +6,14 @@ Windows, but better. it's Make Windows Better "MWB" Curated by CortexDev-Officia
 
 ---
 
+## 📜 Project Legacy & Continuity
+> [!NOTE]
+> There is another project with the exact same name under the account **StrykeDev-Official**. 
+> Please be advised that **StrykeDev-Official** was my previous account which has been suspended. 
+> This repository (**CortexDev-Official/MWB**) is now the **only official and active home** for this project. All future updates will happen here.
+
+---
+
 ## 🛡️ Privacy & Security (Core Recommendations)
 > [!TIP]
 > Your browser is your gateway. Choose privacy.
