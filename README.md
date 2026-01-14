@@ -17,7 +17,7 @@ Windows, but better. it's Make Windows Better "MWB" Curated by CortexDev-Officia
 > Modern Windows telemetry is aggressive. These two tools are your first line of defense.
 
 * **[Zen Browser](https://www.zen-browser.app/)** 🌐
-    * **The Logic:** Moving away from Chromium/Edge is the single best thing you can do for privacy. Zen offers a vertical-tab, performance-first engine without the Google/Microsoft tracking.
+    * **The Logic:** Stop using Microsoft Edge or Chrome. Zen is the ultimate choice for a secure and modern browsing experience. It offers a vertical-tab, performance-first engine without the Google/Microsoft tracking.
 * **[Simplewall](https://github.com/henrypp/simplewall)** 🔒
     * **The Logic:** A simple WFP (Windows Filtering Platform) interface. It doesn't bloat your system like "Antivirus" firewalls; it just blocks unauthorized outgoing connections instantly.
 
@@ -34,7 +34,6 @@ I have handpicked these tools based on resource footprint, reliability, and func
 | **Universal Media** | [VLC Player](https://www.videolan.org/) | The industry standard. Codec-independent and handles hardware acceleration better than "Movies & TV". |
 | **Indexing/Search** | [Everything](https://www.voidtools.com/) | Real-time DB indexing. Finds any file on a multi-terabyte drive in milliseconds. |
 | **Code / Text** | [Notepad++](https://notepad-plus-plus.org/) | Ultra-low RAM usage. Essential for config file editing and quick syntax highlighting. |
-| **Service Control** | [IObit Toolbox](https://www.iobit.com/en/advancedsystemcarefree.php) | Use the **Deactivator** module to freeze background services without uninstalling them. |
 | **Deep Cleaning** | [BleachBit](https://github.com/bleachbit/bleachbit) | Goes where Disk Cleanup won't. Shreds temporary files and vacuums app databases. |
 
 ---
