@@ -8,7 +8,7 @@ Windows, but better. it's "Make My Windows Better" "MWB" Curated by CortexDev-Of
 
 ## 📜 Project Legacy & Continuity
 > [!NOTE]
-> This project is the official successor to my previous system optimization scripts. MWB is now the central home for all Windows enhancement tools developed by CortexDev. This is the only active and verified home for MWB.
+> This project represents a major milestone for CortexDev-Official. Originally born from a collection of private optimization scripts, MWB has been fully rebuilt and rebranded to provide a professional, unified experience
 
 ---
 
