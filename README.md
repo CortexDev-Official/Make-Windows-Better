@@ -26,8 +26,7 @@ I have handpicked these built-in features based on resource footprint, reliabili
 | **Package Management** | [100+ App Hub] | A curated GUI for Winget. Batch installs browsers, dev tools, and games without manual installers. |
 | **System Repair** | [Integrity Suite] | Uses SFC and DISM to repair corrupted system files and restore Windows health instantly. |
 | **Performance** | [Gaming Mode] | ctivates the Ultimate Performance power plan and reduces background latency for heavy tasks. |
-| **Network** | [7-Zip](https://www.7-zip.org/) | Open-source heavy lifter. Superior compression ratio and zero unnecessary background processes compared to WinRAR. |
-| **Image Engine** | [Network Flush] | Clears DNS cache and resets the network stack to fix connectivity lag and latency issues. |
+| **Network** | [Network Flush] | Clears DNS cache and resets the network stack to fix connectivity lag and latency issues. |
 | **Maintenance** | [Deep Cleaner] | Targets system junk, temporary files, and app cache that standard tools often miss. |
 
 ---
