@@ -8,8 +8,8 @@ Curated by CortexDev-Official Windows, redefined. Optimized for privacy, speed, 
     [!NOTE] This project is the official successor to my previous system optimization scripts. MWB is now the central home for all Windows enhancement tools developed by CortexDev. This is the only active and verified home for MWB.
 
 🛡️ Privacy & Security (False Positives)
-
-    [!TIP] Modern antivirus engines often flag Python-based executables. This project is Open Source to ensure 100% transparency.
+[!TIP]
+     Modern antivirus engines often flag Python-based executables. This project is Open Source to ensure 100% transparency.
 
     [VirusTotal Notice] 🛡️
 
