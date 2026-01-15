@@ -1,3 +1,37 @@
 # Make-Windows-Better
 Windows, but better. it's "Make My Windows Better" "MWB" Curated by CortexDev-Official
-🚀 Make My Windows Better (MWB)Official Utility by CortexDev-OfficialWindows, redefined. Optimized for privacy, speed, and clean workflows.📜 Project Continuity & Vision[!NOTE]This project is the official successor to my previous system optimization scripts. MWB is now the central home for all Windows enhancement tools developed by CortexDev.MWB is not just a tool; it's the bridge between a fresh, bloated Windows installation and a fully optimized powerhouse. We aim to centralize everything from package management to deep system repairs into one "Cyber-Glass" dashboard.🛡️ Security & VirusTotal Notice[!IMPORTANT]Some antivirus engines (including VirusTotal) may flag the MWB_CortexDev.exe file. These are 100% FALSE POSITIVES.The Logic: MWB is written in Python and converted to EXE via PyInstaller. This process creates a self-extracting archive that many AI-based scanners flag because they cannot inspect the package.Administrative Rights: Since MWB modifies power plans and installs software, it requires "Admin" rights. Scanners like McAfee or SecureAge automatically label this behavior as "Suspicious" without looking at the actual code.Verification: This project is Open Source. You are invited to review main.py yourself or run the script using Python directly if you have any concerns.🛠️ The MWB Core ToolsetI have integrated these features into the dashboard based on resource footprint and reliability.CategoryFunctionalityWhy it makes the cutPackage Management100+ App HubUses Microsoft Winget to batch install Browsers, Dev Tools, and Media apps without manual installers.System RepairIntegrity SuiteOne-click SFC and DISM repairs to fix corrupted Windows system files instantly.PerformanceGaming ModeUnlocks the hidden Ultimate Performance Power Plan and reduces background latency for gamers.NetworkDNS & IP FlushInstantly resets your network stack and clears DNS lag for a smoother browsing experience.StorageDeep CleaningTargets hidden system junk and temporary files that the standard "Disk Cleanup" misses.📥 Installation & Usage[!TIP]Always run the application as Administrator to ensure all optimization scripts can execute correctly.Download the latest release from the [Releases] tab.Launch MWB_CortexDev.exe.Navigate through the Sidebar to optimize your system.🤝 Community & FeedbackIf you encounter any issues, such as a TclError or UI glitches, please open an Issue on this repository. Your feedback helps make MWB better for everyone.👨‍💻 MaintainerCortexDev-Official (Aboodi)Licensed under MIT"Making Windows usable, one script at a time."
+🚀 Make My Windows Better (MWB)
+
+Curated by CortexDev-Official Windows, redefined. Optimized for privacy, speed, and clean workflows.
+📜 Project Legacy & Continuity
+
+    [!NOTE] This project is the official successor to my previous system optimization scripts. MWB is now the central home for all Windows enhancement tools developed by CortexDev. This is the only active and verified home for MWB.
+
+🛡️ Privacy & Security (False Positives)
+
+    [!TIP] Modern antivirus engines often flag Python-based executables. This project is Open Source to ensure 100% transparency.
+
+    [VirusTotal Notice] 🛡️
+
+        The Logic: If you see detections like Wacatac.B!ml, they are False Positives. Since the app is packaged with PyInstaller and isn't digitally signed, AI scanners flag it. Check the source code to verify.
+
+    [Admin Rights] 🔒
+
+        The Logic: MWB requires Administrator privileges to modify power plans, flush DNS, and install software via Winget. This is necessary for the tools to function correctly.
+
+🛠️ The MWB Toolset (Technical Selection)
+
+I have handpicked these built-in features based on resource footprint, reliability, and functionality.
+Category	Tool	Why it makes the cut
+Package Management	100+ App Hub	A curated GUI for Winget. Batch installs browsers, dev tools, and games without manual installers.
+System Repair	Integrity Suite	Uses SFC and DISM to repair corrupted system files and restore Windows health instantly.
+Performance	Gaming Mode	Activates the Ultimate Performance power plan and reduces background latency for heavy tasks.
+Network	Network Flush	Clears DNS cache and resets the network stack to fix connectivity lag and latency issues.
+Maintenance	Deep Cleaner	Targets system junk, temporary files, and app cache that standard tools often miss.
+🛡️ Official Notice
+
+    [!IMPORTANT] This is the official repository for the MWB project. Any other mirrors are unofficial. If you find bugs, please report them in the "Issues" tab.
+
+👨‍💻 Maintainer
+
+CortexDev-Official (Aboodi)
