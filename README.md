@@ -35,10 +35,12 @@ I have handpicked these built-in features based on resource footprint, reliabili
 ## 🛡️ Official Notice
 > [!IMPORTANT]
 > This is the **official repository** for the MWB project. Any other mirrors are unofficial. If you find bugs, please report them in the "Issues" tab.
+
 > [!NOTE]
-⚠️ Disclaimer
+> ⚠️ Disclaimer
 
 This software is provided "as is" without warranty of any kind. CortexDev is not responsible for any system instability, data loss, or software conflicts that may arise from using system optimization tweaks. Users are advised to create a System Restore Point before applying aggressive optimizations. Use at your own risk.
+
 
 ---
 ### 👨‍💻 Maintainer
