@@ -1,5 +1,7 @@
 # Make-Windows-Better
-Make My Windows Better (MWB) , It's Free And Open Source Software,𝖠 𝗌𝗂𝗆𝗉𝗅𝖾 𝗍𝗈𝗈𝗅 𝗍𝗈 𝖼𝗅𝖾𝖺𝗇 𝗎𝗉 𝖶𝗂𝗇𝖽𝗈𝗐𝗌, 𝗋𝖾𝗆𝗈𝗏𝖾 𝗎𝗇𝗐𝖺𝗇𝗍𝖾𝖽 𝖻𝗅𝗈𝖺𝗍𝗐𝖺𝗋𝖾, 𝖺𝗇𝖽 𝗆𝖺𝗄𝖾 𝗒𝗈𝗎𝗋 𝖯𝖢 𝖿𝖾𝖾𝗅 𝖿𝖺𝗌𝗍𝖾𝗋
+Make My Windows Better (MWB) , It's Free And Open Source Software,
+𝖠 𝗌𝗂𝗆𝗉𝗅𝖾 𝗍𝗈𝗈𝗅 𝗍𝗈 𝖼𝗅𝖾𝖺𝗇 𝗎𝗉 𝖶𝗂𝗇𝖽𝗈𝗐𝗌, 𝗋𝖾𝗆𝗈𝗏𝖾 𝗎𝗇𝗐𝖺𝗇𝗍𝖾𝖽 𝖻𝗅𝗈𝖺𝗍𝗐𝖺𝗋𝖾,
+𝖺𝗇𝖽 𝗆𝖺𝗄𝖾 𝗒𝗈𝗎𝗋 𝖯𝖢 𝖿𝖾𝖾𝗅 𝖿𝖺𝗌𝗍𝖾𝗋
 # 🚀 Make Windows Better (MWB)
 **Curated by CortexDev-Official**
 *Windows, redefined. Optimized for privacy, speed, and clean workflows.*
