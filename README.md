@@ -30,7 +30,7 @@ I have handpicked these built-in features based on resource footprint, reliabili
 | **Performance** | [Gaming Mode] | ctivates the Ultimate Performance power plan and reduces background latency for heavy tasks. |
 | **Network** | [Network Flush] | Clears DNS cache and resets the network stack to fix connectivity lag and latency issues. |
 | **Maintenance** | [Deep Cleaner] | Targets system junk, temporary files, and app cache that standard tools often miss. |
-| **New** |And Much More...] | Be Safe bro! |
+| **And More...** |Unknown] | Be Safe bro! |
 
 ---
 
