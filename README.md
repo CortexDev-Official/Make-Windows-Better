@@ -45,7 +45,7 @@ This software is provided "as is" without warranty of any kind. CortexDev is not
 ------------------------------------
 If you find a problem or programming error, please report it in the Issues tab. ( https://github.com/CortexDev-Official/Make-Windows-Better/issues )
 
-
+When you open my website( https://cortexdev.netlify.app/ ) , you might experience some lag. I'm very sorry about that.
 ---
 ### 👨‍💻 Maintainer
 **CortexDev-Official**
