@@ -399,4 +399,5 @@ def start_app():
     webview.start()
 
 if __name__ == "__main__":
+
     start_app()
