@@ -17,8 +17,8 @@ remove unwanted bloatware,and make your PC feel faster
 ## 🛡️ Privacy & Security (The Essentials)
 > [!TIP]
 > Modern antivirus engines often flag Python-based executables. This project is Open Source to ensure 100% transparency.
->
-> > [!NOTE]
+
+> [!NOTE]
 > I solemnly swear and guarantee that this application is 100% safe. The 19 detections(Or More) on VirusTotal are 'False Positives' caused by the compilation process (Python to EXE). Since MWB interacts with system settings and registry to optimize Windows, some antivirus engines flag it as suspicious. This is an Open Source project—the code is right here for everyone to inspect. Trust is built on transparency
 
 ---
