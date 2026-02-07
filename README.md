@@ -51,7 +51,7 @@ If you find a problem or programming error, please report it in the Issues tab. 
 
 When you open my website( https://cortexdev.netlify.app/ ) , you might experience some lag. I'm very sorry about that.
 
-Check Out My New Minecraft Modpack"VortexCraft",Coming Soon...Available On Modrinth( https://modrinth.com/modpack/vortexcraft ) It's Under Review By Modrinth Team Now...
+Check Out My Minecraft Modpacks Available On Modrinth( https://modrinth.com/user/CortexDev )
 
 "✨The app is new, you might see a SmartScreen warning, click Run Anyway to help us build reputation✨"
 
