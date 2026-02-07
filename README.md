@@ -45,6 +45,8 @@ I have handpicked these built-in features based on resource footprint, reliabili
 > ⚠️ Disclaimer
 
 This software is provided "as is" without warranty of any kind. CortexDev is not responsible for any system instability, data loss, or software conflicts that may arise from using system optimization tweaks. Users are advised to create a System Restore Point before applying aggressive optimizations. Use at your own risk.
+--------------------------------------------------
+    "✨The app is new, you might see a SmartScreen warning, click Run Anyway to help us build reputation✨"
 
 -------------------------------------------------------------------------------------
 If you find a problem or programming error, please report it in the Issues tab. ( https://github.com/CortexDev-Official/Make-Windows-Better/issues )
