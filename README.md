@@ -55,7 +55,7 @@ Check Out My Minecraft Modpack"VortexCraft" Available On Modrinth( https://modri
 
 The Modpack "Calvin's Survival Experience" Coming Soon... Available On CurseForge ( https://www.curseforge.com/members/cortexdev )
 
-"✨The app(MWB) is new, you might see a SmartScreen warning, click Run Anyway to help us build reputation✨"
+"✨The app (MWB) is new, you might see a SmartScreen warning, click Run Anyway to help us build reputation✨"
 
 ------
 ### 👨‍💻 Maintainer
