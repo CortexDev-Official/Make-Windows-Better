@@ -53,7 +53,7 @@ When you open my website( https://cortexdev.netlify.app/ ) , you might experienc
 
 Check Out My Minecraft Modpack "VortexCraft" Available On Modrinth( https://modrinth.com/modpack/vortexcraft )
 
-The   Minecraft Modpack "Calvin's Survival Experience" It's Now Available On CurseForge ( https://www.curseforge.com/minecraft/modpacks/calvins-survival-experience )
+The   Minecraft Modpack "Calvin's Survival Experience" Available On CurseForge ( https://www.curseforge.com/minecraft/modpacks/calvins-survival-experience )
 
 "✨The app (MWB) is new, you might see a SmartScreen warning, click Run Anyway to help us build reputation✨"
 
